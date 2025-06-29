@@ -2,6 +2,8 @@
 
 An intelligent AI-powered web application for analyzing government schemes and extracting key information using advanced natural language processing and machine learning techniques.
 
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/b8b256b1-b453-4bd3-a042-efedd22c882b" />
+
 ## 🎯 Overview
 
 The Haqdarshak Scheme Research Tool is designed to help researchers, government officials, and citizens understand government schemes more effectively. It automatically processes scheme documents from URLs or PDFs and provides comprehensive analysis covering key criteria such as benefits, application processes, eligibility, and required documents.
@@ -181,7 +183,7 @@ This project is developed for Haqdarshak's scheme research requirements.
 - **LangChain**: For the powerful document processing and LLM integration framework
 - **Streamlit**: For the intuitive web application framework
 
-## 📞 Support
+## 📞 Support:9818624454
 
 If you encounter any issues or have questions:
 1. Check the troubleshooting section above
